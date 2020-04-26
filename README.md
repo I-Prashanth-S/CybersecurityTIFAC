@@ -1,6 +1,6 @@
 # CPP Libraries
 
-List of awesome C++ libraries and tools for Android.
+List of C++ libraries and tools for Android.
 
 * [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 * [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
