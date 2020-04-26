@@ -1,4 +1,4 @@
-# Awesome-Android-Cpp Native
+# CPP Libraries
 
 List of awesome C++ libraries and tools for Android.
 
@@ -12,7 +12,7 @@ List of awesome C++ libraries and tools for Android.
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 * [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
-## TODO scan for Android support in followings
+## Libraries that also have android support
 * [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 * [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 * [yandex/ClickHouse](https://github.com/yandex/ClickHouse) - ClickHouse is a free analytic DBMS for big data.
